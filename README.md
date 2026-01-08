@@ -119,3 +119,15 @@ npm run dev
 
 Open:
 http://localhost:3000
+
+📌 Notes
+
+This project represents a real-world SaaS landing page
+
+Designed with scalability and backend integration in mind
+
+Suitable for portfolio presentation and client demos
+
+📄 License
+
+This project is intended for learning and portfolio purposes.
