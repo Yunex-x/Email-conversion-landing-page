@@ -11,7 +11,7 @@ export default function Navigation() {
       </div>
       <div className="text-base sm:text-lg font-semibold">
         <Link
-          href="#contact"
+          href="/contact"
           className="text-white hover:text-yellow-400 transition-colors duration-200 px-3 sm:px-4 py-2"
         >
           Contact

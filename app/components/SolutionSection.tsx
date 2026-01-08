@@ -71,7 +71,7 @@ export default function SolutionSection() {
 
       // Add floating animation to image after it appears
       gsap.to(imageRef.current, {
-        y: -10,
+        y: -20,
         duration: 2,
         ease: "sine.inOut",
         repeat: -1,
